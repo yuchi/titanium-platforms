@@ -1,0 +1,17 @@
+{
+  "name": "titanium-platforms",
+  "version": "1.0.0",
+  "description": "Titanium™ SDK utils for device conditional code",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "titanium",
+    "appcelerator",
+    "util",
+    "conditional"
+  ],
+  "author": "Pier Paolo Ramon <pierpaolo.ramon@smc.it>",
+  "license": "MIT"
+}
